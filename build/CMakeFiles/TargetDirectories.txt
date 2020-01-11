@@ -1,0 +1,3 @@
+/home/alexander/Рабочий стол/OOP/ex_06/build/CMakeFiles/rebuild_cache.dir
+/home/alexander/Рабочий стол/OOP/ex_06/build/CMakeFiles/untitle06.dir
+/home/alexander/Рабочий стол/OOP/ex_06/build/CMakeFiles/edit_cache.dir

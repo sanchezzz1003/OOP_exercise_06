@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexander/Рабочий стол/OOP/ex_06/main.cpp
+algorithm
+-
+iostream
+-
+stack.h
+/home/alexander/Рабочий стол/OOP/ex_06/stack.h
+trapeze.h
+/home/alexander/Рабочий стол/OOP/ex_06/trapeze.h
+myallocator.h
+/home/alexander/Рабочий стол/OOP/ex_06/myallocator.h
+
+/home/alexander/Рабочий стол/OOP/ex_06/myallocator.h
+cstdlib
+-
+cstdint
+-
+exception
+-
+iostream
+-
+type_traits
+-
+mystack.h
+/home/alexander/Рабочий стол/OOP/ex_06/mystack.h
+
+/home/alexander/Рабочий стол/OOP/ex_06/mystack.h
+iterator
+-
+iostream
+-
+memory
+-
+
+/home/alexander/Рабочий стол/OOP/ex_06/stack.h
+iterator
+-
+memory
+-
+
+/home/alexander/Рабочий стол/OOP/ex_06/trapeze.h
+string
+-
+type_traits
+-
+cmath
+-
+stdexcept
+-
+iostream
+-
+
